@@ -3,7 +3,7 @@
 Meu nome é Elizabeth Fanhani
 
 - Estou estudando na Alura;
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript, HTML e CSS.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
   ### Meu contato eletronico📫
 
